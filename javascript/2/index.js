@@ -1,3 +1,5 @@
+// https://projecteuler.net/problem=2
+
 function solution1(max) {
   const fib = [1, 2]
   let nextFib = fib[fib.length - 2] + fib[fib.length - 1]
